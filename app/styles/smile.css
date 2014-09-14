@@ -362,7 +362,7 @@ blockquote p {
   right: 0;
   width: 3em;
   height: 3em;
-  background: url(/images/icon-menu.1a2f.png) no-repeat 50% 50%;
+  background: url(/images/icon-menu.png) no-repeat 50% 50%;
 }
 
 .mobile-menu-toggle:active,.mobile-menu-toggle:focus {
@@ -1297,7 +1297,7 @@ input.search {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2.5em 5em 1.6em .6em;
-    background: #5aadbb url(/images/rocket.3a2f.png) 97% 70% no-repeat;
+    background: #5aadbb url(/images/rocket.png) 97% 70% no-repeat;
     background-size: 4em auto;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
